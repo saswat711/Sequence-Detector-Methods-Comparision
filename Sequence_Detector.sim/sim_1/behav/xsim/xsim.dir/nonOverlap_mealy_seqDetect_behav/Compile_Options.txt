@@ -1,0 +1,1 @@
+-wto "bc7b22afe693403c9fb0f7dc85744f87" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "nonOverlap_mealy_seqDetect_behav" "xil_defaultlib.nonOverlap_mealy_seqDetect" "xil_defaultlib.glbl" -log "elaborate.log" 
